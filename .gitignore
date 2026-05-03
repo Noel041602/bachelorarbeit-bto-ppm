@@ -1,0 +1,27 @@
+# Virtuelle Umgebung
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Daten (Vertraulichkeit Praxispartner)
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.pkl
+*.joblib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Betriebssystem
+Thumbs.db
