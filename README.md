@@ -6,7 +6,7 @@ DHBW Stuttgart, Studiengang Wirtschaftsinformatik
 
 ## Inhalt
 
-Implementierung eines präfixbasierten Random-Forest-Modells zur 
+Implementierung von vier präfixbasierten Random-Forest-Modellen zur 
 Vorhersage von Meilensteinabweichungen am RFS-Meilenstein im 
 Build-to-Order-Prozess.
 
