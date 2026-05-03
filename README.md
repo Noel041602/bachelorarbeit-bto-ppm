@@ -1,4 +1,4 @@
-# Predictive Process Monitoring im Build-to-Order-Prozess
+# Prädiktive Analyse von Meilensteinabweichungen in dezentralen Build-to-Order-Prozessen - eine Fallstudie
 
 Bachelorarbeit von Noel S.
 
