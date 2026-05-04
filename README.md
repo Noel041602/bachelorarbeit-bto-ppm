@@ -2,7 +2,7 @@
 
 Bachelorarbeit von Noel S.
 
-DHBW Stuttgart, Studiengang Wirtschaftsinformatik
+DHBW Stuttgart
 
 ## Inhalt
 
