@@ -1,9 +1,5 @@
 # Prädiktive Analyse von Meilensteinabweichungen in dezentralen Build-to-Order-Prozessen - eine Fallstudie
 
-Bachelorarbeit von Noel S.
-
-DHBW Stuttgart
-
 ## Inhalt
 
 Implementierung von vier präfixbasierten Random-Forest-Modellen zur 
