@@ -26,7 +26,3 @@ Das Notebook dient der Nachvollziehbarkeit der methodischen Umsetzung
 und ist in dieser Form nicht ausführbar. Die Pfadangaben in der 
 Konfiguration sind Platzhalter, und die zugrundeliegenden Daten 
 unterliegen der Vertraulichkeit des Praxispartners.
-
-## Kontakt
-
-Bei Fragen zum Code: wi23276@lehre.dhbw-stuttgart.de
